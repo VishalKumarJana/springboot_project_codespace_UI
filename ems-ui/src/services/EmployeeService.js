@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const EMPLOYEE_BASE_REST_API_URL = 'https://potential-space-eureka-qv7grg97rp7f9pgp-9999.app.github.dev/employees';
+const EMPLOYEE_BASE_REST_API_URL = 'https://spring-codespace-app.onrender.com/employees';
 
 export class EmployeeService{
 
